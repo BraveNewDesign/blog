@@ -1,2 +1,2 @@
 # blog
-Minimalist Blog
+A Minimalist Blog for BraveNewDesign.com
