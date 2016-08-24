@@ -1,0 +1,2 @@
+# blog
+Minimalist Blog
